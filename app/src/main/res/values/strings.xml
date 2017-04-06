@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FingerprintAuth</string>
+    <string name="title_fingerprint">Acceso con huella</string>
+    <string name="description_fingerprint">Por favor, pon tu dedo en el escáner de huella dactilar para autorizarte</string>
+    <string name="note">Mediante el acceso por huella puedes acceder de manera más rápida y eficiente a tu aplicación</string>
+    <string name="error_message">Tu dispositivo no tiene sensor de huellas</string>
+    <string name="error_permission">Debes dar permiso al app para utilizar el sensor de huellas</string>
+    <string name="error_registro_huella">No tienes ninguna huella registrada</string>
+    <string name="error_pantalla_bloqueo">Debes tener seguridad en la pantalla de bloqueo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="activity_home_description">Has accedido correctamente usando tu huella dactilar</string>
+    <string name="activity_home_note">Cierra y abre de nuevo la app para acceder a la pantalla de acceso de nuevo </string>
+
+</resources>
